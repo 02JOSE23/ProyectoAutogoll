@@ -1,0 +1,24 @@
+
+.pb-creativity-no-gutter > .col-md-4 {
+	overflow: hidden;
+}
+.pb-creativity-no-gutter > .col-md-4 > img {
+  transition: all .2s ease-in-out;
+
+}
+.pb-creativity-no-gutter > .col-md-4 > img:hover {
+  transform: scale(1.1);
+}
+.pb-creativity-no-gutter > [class*='col-'] {
+  padding-right: 0;
+  padding-left: 0;
+}
+.pb-creativity-contact {
+  background: #e8ecf2;
+}
+.pb-creativity-footer > .container > .row > .col-md-3 > h3 {
+        color: #ffde4d;
+    }
+#createdby {
+    padding-top: 30px;
+}
